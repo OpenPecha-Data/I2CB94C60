@@ -3,5 +3,19 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W8LS18958
   title: དཔལ་དུས་ཀྱི་འཁོར་ལོའི་ཕྱི་ནང་གཞན་གསུམ་གྱི་བསྡུས་དོན་རིགས་ལྡན་དགྱེས་པའི་འཛུམ་ཟེར།
-  volume: ''
+  volume:
+    6b013f4347e045b6a60cb3f3f6469f62:
+      image_group_id: I8LS18960
+      title: Volume 1 of dpal dus kyi 'khor lo'i phyi nang gzhan gsum gyi bsdus don
+        rigs ldan dgyes pa'i 'dzum zer zhes bya ba bzhugs so/jo nang e waM shes rig
+        dpe tshogs/ 12
+      volume_number: 1
+      total_pages: 342
   author: ''
+ebook_metadata:
+  title: དཔལ་དུས་ཀྱི་འཁོར་ལོའི་ཕྱི་ནང་གཞན་གསུམ་གྱི་བསྡུས་དོན་རིགས་ལྡན་དགྱེས་པའི་འཛུམ་ཟེར།
+  author: ''
+  sku: P006948
+  cover: cover.jpg
+  layers:
+  - pagination
