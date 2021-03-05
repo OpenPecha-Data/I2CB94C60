@@ -1,9 +1,10 @@
-id: opecha:P006948
+id: P006948
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W8LS18958
   title: དཔལ་དུས་ཀྱི་འཁོར་ལོའི་ཕྱི་ནང་གཞན་གསུམ་གྱི་བསྡུས་དོན་རིགས་ལྡན་དགྱེས་པའི་འཛུམ་ཟེར།
-  volume:
+  author: ''
+  volumes:
     6b013f4347e045b6a60cb3f3f6469f62:
       image_group_id: I8LS18960
       title: Volume 1 of dpal dus kyi 'khor lo'i phyi nang gzhan gsum gyi bsdus don
@@ -11,7 +12,7 @@ source_metadata:
         dpe tshogs/ 12
       volume_number: 1
       total_pages: 342
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: དཔལ་དུས་ཀྱི་འཁོར་ལོའི་ཕྱི་ནང་གཞན་གསུམ་གྱི་བསྡུས་དོན་རིགས་ལྡན་དགྱེས་པའི་འཛུམ་ཟེར།
   author: ''
