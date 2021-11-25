@@ -1,5 +1,7 @@
 id: P006948
 initial_creation_type: ocr
+created_at: 29/03/2020
+last_modified_at: 25/11/2021
 source_metadata:
   id: bdr:W8LS18958
   title: དཔལ་དུས་ཀྱི་འཁོར་ལོའི་ཕྱི་ནང་གཞན་གསུམ་གྱི་བསྡུས་དོན་རིགས་ལྡན་དགྱེས་པའི་འཛུམ་ཟེར།
@@ -13,10 +15,3 @@ source_metadata:
       volume_number: 1
       total_pages: 342
       base_file: v001.txt
-ebook_metadata:
-  title: དཔལ་དུས་ཀྱི་འཁོར་ལོའི་ཕྱི་ནང་གཞན་གསུམ་གྱི་བསྡུས་དོན་རིགས་ལྡན་དགྱེས་པའི་འཛུམ་ཟེར།
-  author: ''
-  sku: P006948
-  cover: cover.jpg
-  layers:
-  - pagination
